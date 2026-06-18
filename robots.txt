@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kopasie.github.io/cloud-sport-arena-com-cn/sitemap.xml
